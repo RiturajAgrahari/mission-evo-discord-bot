@@ -7,7 +7,7 @@ The blueprint of the mission evo discord bot.
 * random (build-in module)
 * typing (built-in module)
 
-# How to use :
+## How to use :
 * First put your bot token in the bottom of code in main.py.
 * Secondly put your guild id on both files where it is required!
 * Enjoy!
