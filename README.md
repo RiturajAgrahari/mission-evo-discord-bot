@@ -13,7 +13,7 @@ The blueprint of the mission evo discord bot.
 * Enjoy!
 
 ## What it does?
-* It extract the data from the official fandom wiki of mission and show it in discord server through commands for user convenience.
+* It extract the data from the official fandom wiki of mission evo and show it in discord server through commands for user convenience.
 * It also has answers to some most asked question in the server which can also be used via commands.
 
 ### My story :
