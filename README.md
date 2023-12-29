@@ -12,5 +12,9 @@ The blueprint of the mission evo discord bot.
 * Secondly put your guild id on both files where it is required!
 * Enjoy!
 
+## What it does?
+* It extract the data from the official fandom wiki of mission and show it in discord server through commands for user convenience.
+* It also has answers to some most asked question in the server which can also be used via commands.
+
 ### My story :
 Actually this was my first bot so it is bit messed and not very dynamic...
